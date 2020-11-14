@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <Authors>FengCode</Authors>
+    <Company>FengCode</Company>
+    <Description>C# 基于反射的对象映射库</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/fengcode-git/FengCode.Libs.Mapper</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/fengcode-git/FengCode.Libs.Mapper</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
